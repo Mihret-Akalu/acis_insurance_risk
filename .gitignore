@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
+data/           # keep out if you will use dvc; or include placeholder
+*.dvc
+.vscode/
