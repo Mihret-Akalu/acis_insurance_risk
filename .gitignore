@@ -1,8 +1,14 @@
+# DVC cache (ignore large data files)
+.dvc/cache/
+
+# Track the .dvc folder itself
+!.dvc/
+
+# Python / VSCode / environment
 __pycache__/
 *.pyc
 .env
 .ipynb_checkpoints/
-data/           # keep out if you will use dvc; or include placeholder
-*.dvc
+data/      # only ignore raw data if not tracked by DVC
 .vscode/
 .venv/
