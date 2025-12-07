@@ -5,3 +5,4 @@ __pycache__/
 data/           # keep out if you will use dvc; or include placeholder
 *.dvc
 .vscode/
+.venv/
