@@ -1,0 +1,9 @@
+stages:
+  prepare:
+    cmd: python src\data_prepare.py data/raw/insurance.csv 
+      data/processed/insurance.parquet
+    deps:
+    - data\raw\insurance.csv
+    - src\data_prepare.py
+    outs:
+    - data\processed\insurance.parquet

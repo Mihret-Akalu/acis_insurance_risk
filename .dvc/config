@@ -1,0 +1,4 @@
+[core]
+    remote = localstorage
+['remote "localstorage"']
+    url = C:\Users\hp\Desktop\acis_insurance_risk\dvc_storage
