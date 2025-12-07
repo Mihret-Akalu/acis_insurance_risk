@@ -1,4 +1,4 @@
-# ACIS — Insurance Risk Analytics (Week 1)
+# ACIS — Insurance Risk Analytics 
 
 Project: End-to-End Insurance Risk Analytics & Predictive Modeling  
 

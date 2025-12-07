@@ -6,6 +6,5 @@ scikit-learn
 statsmodels
 jupyterlab
 dvc
-pyyaml
 pytest
 flake8
