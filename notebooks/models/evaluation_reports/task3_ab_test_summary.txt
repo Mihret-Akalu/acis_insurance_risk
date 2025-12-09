@@ -1,0 +1,19 @@
+
+===============================
+     A/B Hypothesis Testing
+===============================
+
+Claim Frequency:
+- Z-statistic: nan
+- p-value: nan
+
+Claim Severity:
+- T-test p-value: 0.0000
+- Mann–Whitney p-value: 0.0000
+
+Margin Difference:
+- T-test p-value: 0.0000
+
+Conclusion:
+- If p < 0.05 → statistically significant difference
+===============================
